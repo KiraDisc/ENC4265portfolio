@@ -14,9 +14,6 @@ The first thing that struck me about the older version was the navigation. The n
 The other thing that caught my attention were the visuals of the website. I have always found that older websites are rather rough on the eyes, perhaps due to the fact that a lot of them, including fanfiction.net, consist chiefly of two things: text and hyperlinks. There is also the other end of the spectrum of old websites that crowds the eye with bright and numerous pictures and graphics. Websites now typically put a specific focus on visual interest, not just how many pictures and colors can fit on this page, but what will please the eye and draw people in to visit again. More thoughtfully placed graphics and dedicated color schemes make modern websites a more pleasant visual experience than that of older websites.
 
 
-## Assignment Rationale 
-
-
 ---
 # Quick Start Guide
 
