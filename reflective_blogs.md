@@ -8,11 +8,13 @@
 # Wayback Analysis
 
 The website I chose to visit is fanfiction.net. While the current version of fanfiction.net isn’t the most modern, the snapshot I visited from 2004 has the telltale look of an early 2000s website. 
+<http://web.archive.org/web/20040622183544/http://www.fanfiction.net/>
 
 The first thing that struck me about the older version was the navigation. The novelty of the World Wide Web was still fresh at the time of many older website’s conception, I believe that because of this, functionality reigned, with less focus on design and streamlining. As the web progressed, more focus was put on convenience and ease of access. In 2004, Fanfiction lacked an intuitive menu navigation system that had me faltering on where to go when I was first looking at it. As a modern internet user, I’ve come to expect a clearly labeled and easily visible menu or tabs to navigate the site.
 
 The other thing that caught my attention were the visuals of the website. I have always found that older websites are rather rough on the eyes, perhaps due to the fact that a lot of them, including fanfiction.net, consist chiefly of two things: text and hyperlinks. There is also the other end of the spectrum of old websites that crowds the eye with bright and numerous pictures and graphics. Websites now typically put a specific focus on visual interest, not just how many pictures and colors can fit on this page, but what will please the eye and draw people in to visit again. More thoughtfully placed graphics and dedicated color schemes make modern websites a more pleasant visual experience than that of older websites.
 
+This assignment was completed without the help of AI technologies.
 
 ---
 # Quick Start Guide
