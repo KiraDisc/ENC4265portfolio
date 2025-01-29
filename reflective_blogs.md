@@ -29,13 +29,22 @@ To begin using KeePass, first
 
 3.)	Open the installer wizard and follow setup instructions
 
-4.)	Once installed, open the program and set a master password
+4.)	Once installed, open the program and set a master password, seen in figure 1
+
+<center><img src="Picture1.png"></center>
+*Figure 1 shows the login screen of KeePass.*
  
-5.)	The application should be open and functional now. Groups can be made to organize passwords more efficiently. Groups are displayed in the left-hand section of the window, shown in figure 1 below. There are several default groups to get you started, or they can be made by right clicking in the empty space of the section and selecting “Add Group”.
+5.)	The application should be open and functional now. Groups can be made to organize passwords more efficiently. Groups are displayed in the left-hand section of the window, shown in figure 2 below. There are several default groups to get you started, or they can be made by right clicking in the empty space of the section and selecting “Add Group”.
+
+<center><img src="Picture2.png"></center>
+*Figure 2 shows the main window of KeyPass and groups to the left.*
  
 6.)	To store your first password, either select the “Add Entry” button at the top of the window (denoted by a 🔑), press Ctrl+I, or right click in the right section of the window
 
-7.)	A default entry window should look like figure 2. Each entry starts with a default password randomly generated in the field, but can be changed or regenerated with several options 
+7.)	A default entry window should look like figure 3. Each entry starts with a default password randomly generated in the field, but can be changed or regenerated with several options.
+
+<center><img src="Picture3.png"></center>
+*Figure 3 shows the entry creation screen.*
 
 8.)	To generate a different random password, press the “Generate a Key” button (denoted by a 🔑) and select your desired password length.
 
@@ -45,7 +54,7 @@ To begin using KeePass, first
 
 11.)	Before exiting, select the save button (denoted by a 💾) in the top taskbar, and safely exit the application
 
-
+This assignment is free of synthetic text
 ---
 # Reflective Blog 3
 TBD
