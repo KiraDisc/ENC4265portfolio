@@ -18,21 +18,33 @@ This assignment was completed without the help of AI technologies.
 
 ---
 # Quick Start Guide
+
 KeePass Password Manager
+
 To begin using KeePass, first 
-1.)	Go to the following link:  https://keepass.info/
+
+1.)	Go to the following link: <https://keepass.info/>
+
 2.)	Select the latest version and follow instructions to download the installer
+
 3.)	Open the installer wizard and follow setup instructions
+
 4.)	Once installed, open the program and set a master password
  
 5.)	The application should be open and functional now. Groups can be made to organize passwords more efficiently. Groups are displayed in the left-hand section of the window, shown in figure 1 below. There are several default groups to get you started, or they can be made by right clicking in the empty space of the section and selecting “Add Group”.
  
 6.)	To store your first password, either select the “Add Entry” button at the top of the window (denoted by a 🔑), press Ctrl+I, or right click in the right section of the window
+
 7.)	A default entry window should look like figure 2. Each entry starts with a default password randomly generated in the field, but can be changed or regenerated with several options 
+
 8.)	To generate a different random password, press the “Generate a Key” button (denoted by a 🔑) and select your desired password length.
+
 9.)	To view the password in plaintext, select the ellipses (…) button.
+
 10.)	Once your entry is filled out, select OK to add it to your password database.
+
 11.)	Before exiting, select the save button (denoted by a 💾) in the top taskbar, and safely exit the application
+
 
 ---
 # Reflective Blog 3
