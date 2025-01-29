@@ -18,27 +18,22 @@ This assignment was completed without the help of AI technologies.
 
 ---
 # Quick Start Guide
+KeePass Password Manager
+To begin using KeePass, first 
+1.)	Go to the following link:  https://keepass.info/
+2.)	Select the latest version and follow instructions to download the installer
+3.)	Open the installer wizard and follow setup instructions
+4.)	Once installed, open the program and set a master password
+ 
+5.)	The application should be open and functional now. Groups can be made to organize passwords more efficiently. Groups are displayed in the left-hand section of the window, shown in figure 1 below. There are several default groups to get you started, or they can be made by right clicking in the empty space of the section and selecting “Add Group”.
+ 
+6.)	To store your first password, either select the “Add Entry” button at the top of the window (denoted by a 🔑), press Ctrl+I, or right click in the right section of the window
+7.)	A default entry window should look like figure 2. Each entry starts with a default password randomly generated in the field, but can be changed or regenerated with several options 
+8.)	To generate a different random password, press the “Generate a Key” button (denoted by a 🔑) and select your desired password length.
+9.)	To view the password in plaintext, select the ellipses (…) button.
+10.)	Once your entry is filled out, select OK to add it to your password database.
+11.)	Before exiting, select the save button (denoted by a 💾) in the top taskbar, and safely exit the application
 
-## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
-
-## Where to Start
-Think of a product that you already know how to use. It can be a bluetooth headset, an app, a video game, a sewing machine, or anything that requires a little bit of setup to use.
-
-## Assignment Steps
-This assignment is a little more structured than others in our course, so please follow these steps:
-1. Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
-2. Write a prompt that asks it to generate a quick-start guide for your product of choice. (copy and paste this somewhere - it is part of what you need to turn in)
-3. Evaluate the output. Try to follow the steps yourself, or at least imagine following them.
-4. Prompt it again (and again) if needed (again saving your prompts somewhere).
-5. Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you).
-
-## What is Due
-On your portfolio, post the following:
--The name of the tool (with the link if you have it)
--Your prompts
--The best output 
--Your reflection 
 ---
 # Reflective Blog 3
 TBD
