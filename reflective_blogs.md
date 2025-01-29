@@ -56,6 +56,7 @@ Figure 3 shows the entry creation screen.
 11.)	Before exiting, select the save button (denoted by a 💾) in the top taskbar, and safely exit the application
 
 This assignment is free of synthetic text
+
 ---
 # Reflective Blog 3
 TBD
