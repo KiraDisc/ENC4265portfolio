@@ -25,34 +25,36 @@ To begin using KeePass, first
 
 1.)	Go to the following link: <https://keepass.info/>
 
-2.)	Select the latest version and follow instructions to download the installer.
+2.)	Select the latest version and click the link to the downloader at the top of the screen.
 
-3.)	Open the installer wizard and follow setup instructions.
+3.)   Select the desired file type for the download (.exe or .zip) and download installer.
 
-4.)	Once installed, open the program and set a master password, seen in figure 1.
+4.)	Open the installer wizard and follow setup instructions.
+
+5.)	Once installed, open the program and set a master password, seen in figure 1.
 
 _Figure 1 shows the login screen of KeePass. (Image by Kira Discenza)_
 <center><img src="Picture1.png"></center>
  
-5.)	The application should be open and functional now. Groups can be made to organize passwords more efficiently. Groups are displayed in the left-hand section of the window, shown in figure 2 below. There are several default groups to get you started, or they can be made by right clicking in the empty space of the section and selecting “Add Group”.
+6.)	The application should be open and functional now. Groups can be made to organize passwords more efficiently. Groups are displayed in the left-hand section of the window, shown in figure 2 below. There are several default groups to get you started, or they can be made by right clicking in the empty space of the section and selecting “Add Group”.
 
 _Figure 2 shows the main window of KeyPass and groups to the left. (Image by Kira Discenza)_
 <center><img src="Picture2.png"></center>
  
-6.)	To store your first password, either select the “Add Entry” button at the top of the window (denoted by a 🔑), press Ctrl+I, or right click in the right section of the window.
+7.)	To store your first password, either select the “Add Entry” button at the top of the window (denoted by a 🔑), press Ctrl+I, or right click in the right section of the window.
 
-7.)	A default entry window should look like figure 3. Each entry starts with a default password randomly generated in the field, but can be changed or regenerated with several options.
+8.)	A default entry window should look like figure 3. Each entry starts with a default password randomly generated in the field, but can be changed or regenerated with several options.
 
 _Figure 3 shows the entry creation screen. (Image by Kira Discenza)_
 <center><img src="Picture3.png"></center>
 
-8.)	To generate a different random password, press the “Generate a Key” button (denoted by a 🔑) and select your desired password length.
+9.)	To generate a different random password, press the “Generate a Key” button (denoted by a 🔑) and select your desired password length.
 
-9.)	To view the password in plaintext, select the ellipses (…) button.
+10.)	To view the password in plaintext, select the ellipses (…) button.
 
-10.)	Once your entry is filled out, select OK to add it to your password database.
+11.)	Once your entry is filled out, select OK to add it to your password database.
 
-11.)	Before exiting, select the save button (denoted by a 💾) in the top taskbar, and safely exit the application.
+12.)	Before exiting, select the save button (denoted by a 💾) in the top taskbar, and safely exit the application.
 
 This assignment is free of synthetic text
 
