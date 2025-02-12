@@ -3,7 +3,7 @@
 # Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
-3. [Prompt Q](#prompt-q)
+3. [Reflective Blog 3](#reflective-blog-3)
    
 # Wayback Analysis
 
@@ -59,7 +59,9 @@ _Figure 3 shows the entry creation screen. (Image by Kira Discenza)_
 This assignment is free of synthetic text
 
 ---
-# Prompt Q
+# Reflective Blog 3
+
+#### Prompt Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn?
 
 My resume was uploaded to ChatGPT, where the AI tool was prompted to generate the job that my resume would most closely match with, and asked to list ways to improve the document. The jobs that ChatGPT said matched my resume the most are below:
 
