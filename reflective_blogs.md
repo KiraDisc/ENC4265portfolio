@@ -59,5 +59,16 @@ _Figure 3 shows the entry creation screen. (Image by Kira Discenza)_
 This assignment is free of synthetic text
 
 ---
-# Reflective Blog 3
-TBD
+# Prompt Q
+
+My resume was uploaded to ChatGPT, where the AI tool was prompted to generate the job that my resume would most closely match with, and asked to list ways to improve the document. The jobs that ChatGPT said matched my resume the most are below:
+
+* IT Support Intern – Your customer service experience shows strong communication skills, and your TestOut IT Fundamentals Pro certification indicates a basic understanding of IT concepts.
+* Help Desk Technician (Intern/Entry-Level) – Your mix of technical knowledge and customer service experience aligns well with help desk roles, where troubleshooting and assisting users are key.
+* Junior Data Entry Specialist – Your experience with MySQL and Microsoft Office suggests you could handle data-related tasks.
+
+When asked for suggestions on how to improve my resume, I was told to add relevant coursework I have completed in my studies, like "Networking Fundamentals" or "Database Management". Currently my resume is focused more on things I have done or specific programs I know, there isn't a lot of general skills, whether technical or soft. I think adding skills like this would help my resume a lot and show employers what I can offer. I was also suggested to add personal and academic projects related to IT, this suggestion wasn't very helpful since I don't have any projects like this under my belt, but it would be valuable if I did. The last suggestion that ChatGPT gave me was to add more certifications to my resume. Of course, any industry related certifications will help boost the strength of a resume, and I'm currently in the process of getting another certification so I can bolster my resume even more.
+
+ChatGPT gave several good suggestions for improving my resume, some of which I will implement to hopefully help in my future job-finding endeavors.
+
+This assignment was completed with the help of generative AI tool ChatGPT.
