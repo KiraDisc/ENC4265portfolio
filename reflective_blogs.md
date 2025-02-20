@@ -4,6 +4,7 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
+4. [Reflective Blog 4](#reflective-blog-4)
    
 # Wayback Analysis
 
@@ -74,3 +75,11 @@ When asked for suggestions on how to improve my resume, I was told to add releva
 ChatGPT gave several good suggestions for improving my resume, some of which I will implement to hopefully help in my future job-finding endeavors.
 
 This assignment was completed with the help of generative AI tool ChatGPT.
+
+---
+
+# Reflective Blog 4
+
+#### 
+
+
