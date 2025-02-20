@@ -80,6 +80,12 @@ This assignment was completed with the help of generative AI tool ChatGPT.
 
 # Reflective Blog 4
 
-#### 
+#### Prompt E: Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)
 
+For this prompt I explored UCF's Knightbot, accessible at <https://www.sdes.ucf.edu/knightbot/>.
 
+The purpose of the chatbot seems to be for answering basic FAQ's. It streamlines the process of students looking for answers about the school and keeps low-level questions from being directed towards real employees too much. The functionality is decent for what the product is, but because Knightbot is not generative, I found myself lacking a lot of real answers to the question I was asking. The bot only has about 1200 preprogrammed answers to question, basic things like "Where can I see my grades?" or "How do I know if I earned a school scholarship?" Anything more complex than this is answered with the name and link of a UCF office where you can ask for further help. Because free-typed questions usually weren't fruitful, Knightbot has a "prompt" feature where it prompts you with preprogrammed questions based on the contents of its message. This helps guide the user to questions the Knightbot can actually answer, but it doesn't solve the limit in the scope of help that Knightbot can provide.
+
+It was generally easy to use due to it's simple interface and limited capabilities. I did grow frustrated at points using it because when the Knightbot response included prompt questions for you to click, it would not allow you to type a question, meaning you were forced to either pick a prompt or refresh the page. As stated before, the existence of Knightbot is useful for students with very basic questions. In such a large school, it can be hard to find or even know about certain resources. Knightbot is a decent method to remedy this, although I don't think I would say it's actual usability is much more advanced than an FAQ page.
+
+This assignement was completed with the help of chatbot Knightbot.
