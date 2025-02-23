@@ -88,4 +88,4 @@ The purpose of the chatbot seems to be for answering basic FAQ's. It streamlines
 
 It was generally easy to use due to it's simple interface and limited capabilities. I did grow frustrated at points using it because when the Knightbot response included prompt questions for you to click, it would not allow you to type a question, meaning you were forced to either pick a prompt or refresh the page. As stated before, the existence of Knightbot is useful for students with very basic questions. In such a large school, it can be hard to find or even know about certain resources. Knightbot is a decent method to remedy this, although I don't think I would say it's actual usability is much more advanced than an FAQ page.
 
-This assignement was completed with the help of chatbot Knightbot.
+This assignment was completed with the help of chatbot Knightbot.
