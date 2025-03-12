@@ -93,7 +93,7 @@ This assignment was completed with the help of chatbot Knightbot.
 
 # Reflective Blog 6
 
-#### Prompt R: After you have completed the [Chatbot](main/chatbot) assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+#### Prompt R: After you have completed the [Chatbot](blob/main/chatbot) assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
 
 When creating my chatbot, I was surprised with how easy it was to get a functioning bot. The custom bot creator provided by Boodlebox was incredibly simple to use, and with surprisingly little effort on my part, already had the meat and potatoes of my chatbot after just a few instruction lines. Because the subject of my chatbot, a video game, with publicly available information, the AI was very good at acquiring information about it and answering questions before I imported any documents or additional information.
 
