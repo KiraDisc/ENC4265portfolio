@@ -5,6 +5,7 @@
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 6](#reflective-blog-6)
    
 # Wayback Analysis
 
@@ -89,3 +90,13 @@ The purpose of the chatbot seems to be for answering basic FAQ's. It streamlines
 It was generally easy to use due to it's simple interface and limited capabilities. I did grow frustrated at points using it because when the Knightbot response included prompt questions for you to click, it would not allow you to type a question, meaning you were forced to either pick a prompt or refresh the page. As stated before, the existence of Knightbot is useful for students with very basic questions. In such a large school, it can be hard to find or even know about certain resources. Knightbot is a decent method to remedy this, although I don't think I would say it's actual usability is much more advanced than an FAQ page.
 
 This assignment was completed with the help of chatbot Knightbot.
+
+# Reflective Blog 6
+
+#### Prompt R: After you have completed the [Chatbot](main/chatbot) assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+
+When creating my chatbot, I was surprised with how easy it was to get a functioning bot. The custom bot creator provided by Boodlebox was incredibly simple to use, and with surprisingly little effort on my part, already had the meat and potatoes of my chatbot after just a few instruction lines. Because the subject of my chatbot, a video game, with publicly available information, the AI was very good at acquiring information about it and answering questions before I imported any documents or additional information.
+
+One thing I think it didn’t do as well as I hoped was having a unique personality. Despite multiple attempts to prompt it to deviate from its default personality, I could not easily change the way it responds to the user besides the pre-written introductory prompt. While this isn’t a huge problem, it would have been nice to maintain an air of immersion with the bot using a slightly brooding and mysterious personality to match the atmosphere of the game. I also had a small issue with the response formula, every response seemed to be the same, small snippet followed by one or more bullet lists. I didn’t love how many bullet lists the bot was using, so I tried different ways of customizing the bot instruction list, but since I didn’t want to bar the use of bullet points entirely it was hard to instruct the bot. In the end I wasn’t able to really change my bot responses. 
+
+Overall I was pleased with the AI’s ability to make the task of creating a chatbot so simple, but unimpressed with the lack of flexibility in the bot. The bot seemed to be trained to be a certain way: professional and easy to digest. While of course these things are important, it makes molding the bot to be different than that difficult.
