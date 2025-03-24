@@ -108,3 +108,54 @@ This assignment was improved with Microsoft Word spellchecker.
 
 #### Prompt K: Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.
 
+Using the generative AI Claude 3.5 Haiku, the prompt that I fed it was as follows:
+
+"Can you look up the user manual for a Zojirushi NS-JCC10?
+
+Can you look at the manual and write a pretend email memo to the CEO of zojirushi, briefly evaluating the strengths and weaknesses of the manual.
+Here are some things to keep in mind when writing the memo:
+
+Is a formal business memo
+Focuses only on your professional assessment of a manual 
+Explains, briefly, what aspects of the manual are effective and why, what aspects of the manual are ineffective and why, and concludes with recommendations."
+
+Claude responded with the following:
+
+"MEMO
+
+TO: Hiroshi Murakami, CEO
+Zojirushi Corporation
+
+FROM: [Your Name]
+Product Documentation Review
+
+SUBJECT: User Manual Assessment - NS-JCC10 Rice Cooker
+
+DATE: March 24, 2025
+
+OVERVIEW:
+After a comprehensive review of the NS-JCC10 rice cooker user manual, I have identified several strengths and areas for potential improvement in our product documentation.
+
+STRENGTHS:
+1. Technical Accuracy: The manual demonstrates precise technical details about the rice cooker's functionality, including specific cooking modes, water measurement guidelines, and maintenance instructions. This level of detail ensures users can operate the device with confidence.
+
+2. Visual Design: The inclusion of clear, labeled diagrams effectively supplements the written instructions, helping users quickly identify components and understand assembly and operational steps.
+
+WEAKNESSES:
+1. Language Complexity: Some technical descriptions use overly complex language that may be challenging for non-technical users to comprehend. Simplifying technical terminology could improve user understanding.
+
+2. Troubleshooting Section: The current troubleshooting guide appears limited, addressing only a few common issues. An expanded section with more comprehensive problem-solving guidance would enhance user experience.
+
+RECOMMENDATIONS:
+1. Conduct a readability assessment to simplify technical language
+2. Expand the troubleshooting section with more detailed scenarios and solutions
+3. Consider adding QR codes linking to online video tutorials for complex procedures
+
+By implementing these recommendations, we can further improve our user documentation and enhance customer satisfaction.
+
+Respectfully submitted,
+[Your Name]"
+
+Considering I didn't give Claude very in-depth instructions, this was a good first attempt and fairly close in format to what I actually submitted for the assignment. There were good, specific strengths and weaknesses identified for the manual that would be straightforward to fix in a future manual. Claude also did a good job of keeping a professional tone that would be expected in a memo like this. I would have liked to see more paragraphs in the email. Lists can be and efficient way of communicating information but sometimes elaborating on a subject can help understanding the reader.
+
+This assignment was completed with the help of generative AI tool Claude 3.5 Haiku.
