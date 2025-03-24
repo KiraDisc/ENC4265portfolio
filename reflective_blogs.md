@@ -6,6 +6,7 @@
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 6](#reflective-blog-6)
+6. [Reflective Blog 7](#reflective-blog-7)
    
 # Wayback Analysis
 
@@ -102,3 +103,8 @@ One thing I think it didn’t do as well as I hoped was having a unique personal
 Overall I was pleased with the AI’s ability to make the task of creating a chatbot so simple, but unimpressed with the lack of flexibility in the bot. The bot seemed to be trained to be a certain way: professional and easy to digest. While of course these things are important, it makes molding the bot to be different than that difficult.
 
 This assignment was improved with Microsoft Word spellchecker.
+
+# Reflective Blog 7
+
+#### Prompt K: Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.
+
