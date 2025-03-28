@@ -3,7 +3,7 @@
 
 # Procedure Video
 
-[![Watch the video](https://github.com/KiraDisc/ENC4265portfolio/blob/main/sims-4-default-loading-screen-resized-1-1080x608.webp)](https://youtu.be/Zdd9JUGwQNk)
+[![Watch the video](320px-The_Sims_4-title-2019.png)](https://youtu.be/Zdd9JUGwQNk)
 
 ### [How to install mods for the Sims 4 on Windows 10](https://youtu.be/Zdd9JUGwQNk)
 
