@@ -3,7 +3,6 @@
 
 # Procedure Video
 
-[![Watch the video](https://img.youtube.com/vi/iadzYtX4ERU/maxresdefault.jpg)](https://youtu.be/iadzYtX4ERU)
+[![Watch the video](https://img.youtube.com/vi/Zdd9JUGwQNk/maxresdefault.jpg)](https://youtu.be/Zdd9JUGwQNk)
 
-### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)
-
+### [How to install mods for the Sims 4 on Windows 10](https://youtu.be/Zdd9JUGwQNk)
