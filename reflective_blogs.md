@@ -7,6 +7,7 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 6](#reflective-blog-6)
 6. [Reflective Blog 7](#reflective-blog-7)
+7. [Reflective Blog 8](#reflective-blog-8)
    
 # Wayback Analysis
 
@@ -92,6 +93,8 @@ It was generally easy to use due to it's simple interface and limited capabiliti
 
 This assignment was completed with the help of chatbot Knightbot.
 
+---
+
 # Reflective Blog 6
 
 #### Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
@@ -103,6 +106,8 @@ One thing I think it didn’t do as well as I hoped was having a unique personal
 Overall I was pleased with the AI’s ability to make the task of creating a chatbot so simple, but unimpressed with the lack of flexibility in the bot. The bot seemed to be trained to be a certain way: professional and easy to digest. While of course these things are important, it makes molding the bot to be different than that difficult.
 
 This assignment was improved with Microsoft Word spellchecker.
+
+---
 
 # Reflective Blog 7
 
@@ -159,3 +164,18 @@ Respectfully submitted,
 Considering I didn't give Claude very in-depth instructions, this was a good first attempt and fairly close in format to what I actually submitted for the assignment. There were good, specific strengths and weaknesses identified for the manual that would be straightforward to fix in a future manual. Claude also did a good job of keeping a professional tone that would be expected in a memo like this. I would have liked to see more paragraphs in the email. Lists can be and efficient way of communicating information but sometimes elaborating on a subject can help understanding the reader.
 
 This assignment was completed with the help of generative AI tool Claude 3.5 Haiku.
+
+---
+
+# Reflective Blog 8
+
+#### Prompt F: Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback? Note: this one is vintage only, but you can use AI tools for editing.
+
+I will be reflecting on the Procedure video for this reflective blog. This assignment was particularly difficult for me because I very rarely record myself, and while I am familiar with communicating professionally through text, I have far less experience speaking in that manner.
+
+Looking back on my procedure video, I would have liked to explain some parts more in depth or take more time to explain exactly what I’m doing or clicking on. However, I found that the more I talked, the more likely I was to stutter or lose my train of thought and have to restart the recording or edit more parts out. I even skipped over some more descriptive parts of my script because I instinctively kept moving on with my procedures and didn’t want any awkward pauses while I looked at my script. I tried to practice my script and still had to restart my recording several, but the experience was so foreign to me that I still kept messing up my speech.
+
+I’m glad I had a chance to complete this assignment since most of my problem comes down to lack of experience and confidence.
+
+This assignment was completed with the help of Microsoft Word spellchecker. 
+
