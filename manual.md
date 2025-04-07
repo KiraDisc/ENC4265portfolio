@@ -12,3 +12,7 @@
 
 - Introduction
   - Why mod Skyrim?
+  - What this manual covers - and what it doesn't
+- Preparing Your Game
+  - Choosing your version
+  - Disabling automatic updates
