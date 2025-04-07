@@ -6,17 +6,17 @@
 
 ![Elder Scrolls v: Skyrim](skyirm.jpg)
 
-*Image 1: Elder Scrolls V: Skyrim title screen*
+*Figure 1: Elder Scrolls V: Skyrim title screen*
 
 ## Table of Contents
 
 - [Introduction](#introduction)
   - [Why mod Skyrim?](#why-mod-skyrim)
-  - [What this manual covers](what-this-manual-covers)
+  - [What this manual covers - and what it doesn't](what-this-manual-covers---and-what-it-doesn't)
 - [Preparing Your Game](#preparing-your-game)
   - [Choosing your version](#choosing-your-version)
   - [Disabling automatic updates](#disabling-automatic-updates)
-- [Understanding Mods](#understanding-mods)
+- [An Easy Start - Using Creations](#an-easy-start---using-creations)
 
 ## Introduction
 
@@ -46,5 +46,15 @@ Once your Skyrim installation is clean and stable, you’re ready to install the
 
 # An Easy Start - Using Creations
 
+If you’re interested in enhancing your Skyrim experience without diving headfirst into community modding, the Creation Club offers a simple, low-maintenance alternative. Included with the Anniversary Edition (or available for purchase separately in the Special Edition), these "Creations" are official, curated add-ons developed by Bethesda and selected community creators.
+
 ![Creations Home Page](489830_10.jpg)
+*Figure 2: Bethesda Creations home page, image taken by Kira Discenza*
+
 ### What are Creations?
+
+Creations include new quests, armor sets, weapons, spells, dungeons, and even game mechanics like fishing and survival mode. Unlike traditional mods, they integrate seamlessly with the game and require no special tools or mod managers—just enable or disable them in the game’s main menu. To access them, there is a button in the main menu of the game titled "Creations", located under the "New game" and "Load game" buttons that will take you to the Creations home page, pictured above.
+
+While Creation Club content is more limited in scope than community mods, it’s a great way to freshen up your playthrough with minimal setup. It’s also fully supported by Bethesda, meaning it's unlikely to break your game or conflict with updates.
+
+If you’re the type of player who just wants “a little something extra” without the overhead of learning modding tools, this is your perfect starting point. Later on, if you want more control or more ambitious changes, the rest of this manual will guide you into the world of full modding.
