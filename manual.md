@@ -3,3 +3,6 @@
 # Manual 
 
 # Modding Skyrim: A (Mostly) Complete Guide
+
+<center><img src="skyirm.jpg"></center>
+*Image 1: Elder Scrolls V: Skyrim title screen*
