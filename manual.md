@@ -4,5 +4,11 @@
 
 # Modding Skyrim: A (Mostly) Complete Guide
 
-<center><img src="skyirm.jpg"></center>
+![Elder Scrolls v: Skyrim](skyirm.jpg)
+
 *Image 1: Elder Scrolls V: Skyrim title screen*
+
+## Table of Contents
+
+- Introduction
+  - Why mod Skyrim?
