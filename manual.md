@@ -16,6 +16,7 @@
 - [Preparing Your Game](#preparing-your-game)
   - [Choosing your version](#choosing-your-version)
   - [Disabling automatic updates](#disabling-automatic-updates)
+- [Understanding Mods](#understanding-mods)
 
 ## Introduction
 
@@ -42,3 +43,5 @@ First, decide which version of Skyrim you’ll be modding: The Special Edition (
 A fresh install with no lingering mods or saves is highly recommended. You’ll also want to disable automatic updates through Steam to avoid breaking your mod setup unexpectedly. Trust us—it’s better to set everything up right the first time than to troubleshoot a messy modded game later.
 
 Once your Skyrim installation is clean and stable, you’re ready to install the essential tools that will help manage your mods smoothly and safely.
+
+# Understanding Mods
