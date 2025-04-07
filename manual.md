@@ -108,7 +108,7 @@ Modding Skyrim manually is possible, but not recommended. Why? Because without t
 
 ### Where to Find Mods
 
-Most Skyrim mods are downloaded from Nexus Mods, though some are also hosted on platforms like GitHub or authors’ personal websites.
+Most Skyrim mods are downloaded from [Nexus Mods](https://www.nexusmods.com/games/skyrim), though some are also hosted on platforms like GitHub or authors’ personal websites.
 
 Here are the essential tools every modder should install:
 
@@ -119,4 +119,3 @@ Here are the essential tools every modder should install:
 
 Don’t worry if some of these tools sound intimidating at first—we’ll walk through using them step-by-step in the following chapters. Once they’re set up, they’ll do most of the heavy lifting for you.
 
-### Where to find mods
