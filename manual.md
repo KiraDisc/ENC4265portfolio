@@ -17,6 +17,10 @@
   - [Choosing your version](#choosing-your-version)
   - [Disabling automatic updates](#disabling-automatic-updates)
 - [An Easy Start - Using Creations](#an-easy-start---using-creations)
+  - [What are Creations?](#what-are-creations)
+- [Understanding Mods](#understanding-mods)
+  - [Types of mods](#types-of-mods)
+  - [File types](#file-types)
 
 ## Introduction
 
@@ -45,6 +49,7 @@ A fresh install with no lingering mods or saves is highly recommended. You’ll 
 To disable automatic updates, navigate to your steam library, right click on the game title and click properties. In the open dialogue box click on the updates tab and select "Wait until I launch the game" from the dropdown menu. Unfortunately Steam does not offer a definitive way to turn off updates. To work around this you will need to use the update option we previously selected, and before launching the title, change your steam status to offline so that the launching isn't detected.
 
 ![Game options menu](steam2.png)
+
 *Figure 2: Dialogue box where game specific settings can be changed*
 
 If this is too much of a hassle for you, feel free to skip this step. The benefit to this is that mods can be volatile when crossing release editions, and one update can possibly make half of your mods unusable.
@@ -65,3 +70,22 @@ Creations include new quests, armor sets, weapons, spells, dungeons, and even ga
 While Creation Club content is more limited in scope than community mods, it’s a great way to freshen up your playthrough with minimal setup. It’s also fully supported by Bethesda, meaning it's unlikely to break your game or conflict with updates.
 
 If you’re the type of player who just wants “a little something extra” without the overhead of learning modding tools, this is your perfect starting point. Later on, if you want more control or more ambitious changes, the rest of this manual will guide you into the world of full modding.
+
+# Understanding Mods
+
+Before diving into installation, it helps to understand what mods actually are and how they interact with Skyrim. At their core, mods are modifications—custom files made by the community that change, enhance, or add new content to the game. These can range from subtle quality-of-life tweaks to massive overhauls that transform gameplay entirely.
+
+### Types of Mods
+
+Mods generally fall into a few categories:
+
+- Visual Mods improve the game's graphics through better textures, lighting, and effects.
+- Gameplay Mods alter how the game plays—think combat mechanics, enemy AI, or survival systems.
+- Content Mods add new quests, locations, followers, and sometimes even whole new worlds.
+- Utility Mods don’t change the game directly but improve stability, performance, or user interface.
+
+### File Types
+
+Each mod typically includes files like .esp, .esm, or .bsa, which plug into Skyrim's game data. Some also rely on scripts or external plugins like SKSE (Skyrim Script Extender) to work properly. Knowing what each type of file does will help you manage your load order and avoid conflicts.
+
+The beauty of Skyrim modding is in mixing and matching these mods to create a customized experience—but that also means things can get messy fast without the right tools. That’s where we’re headed next.
