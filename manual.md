@@ -40,7 +40,9 @@ First, decide which version of Skyrim you’ll be modding: The Special Edition (
 
 ### Disabling automatic updates
 
-A fresh install with no lingering mods or saves is highly recommended. You’ll also want to disable automatic updates through Steam to avoid breaking your mod setup unexpectedly. Trust us—it’s better to set everything up right the first time than to troubleshoot a messy modded game later.
+A fresh install with no lingering mods or saves is highly recommended. You’ll also want to disable automatic updates through Steam to avoid breaking your mod setup unexpectedly. It’s better to set everything up right the first time than to troubleshoot a messy modded game later. To disable automatic updates, navigate to your steam library, right click on the game title and click properties. In the open dialogue box click on the updates tab and select "Wait until I launch the game" from the dropdown menu. Unfortunately Steam does not offer a definitive way to turn off updates. To work around this you will need to use the update option we previously selected, and before launching the title, change your steam status to offline so that the launching isn't detected.
+
+If this is too much of a hassle for you, feel free to skip this step. The benefit to this is that mods can be volatile when crossing release editions, and one update can possibly make half of your mods unusable.
 
 Once your Skyrim installation is clean and stable, you’re ready to install the essential tools that will help manage your mods smoothly and safely.
 
