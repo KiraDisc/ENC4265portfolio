@@ -4,9 +4,9 @@
 
 # Modding Skyrim: A (Mostly) Complete Guide
 
-![Elder Scrolls v: Skyrim](skyirm.jpg)
-
-*Figure 1: Elder Scrolls V: Skyrim title screen*
+> ![Elder Scrolls v: Skyrim](skyirm.jpg)
+>
+> *Figure 1: Elder Scrolls V: Skyrim title screen*
 
 ## Table of Contents
 
@@ -21,6 +21,7 @@
 - [Understanding Mods](#understanding-mods)
   - [Types of mods](#types-of-mods)
   - [File types](#file-types)
+  - [A word on compatibility](#a-word-on-compatibility)
 - [Tools for Modding](#tools-for-modding)
 
 ## Introduction
@@ -49,9 +50,9 @@ A fresh install with no lingering mods or saves is highly recommended. You’ll 
 
 To disable automatic updates, navigate to your steam library, right click on the game title and click properties. In the open dialogue box click on the updates tab and select "Wait until I launch the game" from the dropdown menu. Unfortunately Steam does not offer a definitive way to turn off updates. To work around this you will need to use the update option we previously selected, and before launching the title, change your steam status to offline so that the launching isn't detected.
 
-![Game options menu](steam2.png)
-
-*Figure 2: Dialogue box where game specific settings can be changed*
+> ![Game options menu](steam2.png)
+>
+> *Figure 2: Dialogue box where game specific settings can be changed*
 
 If this is too much of a hassle for you, feel free to skip this step. The benefit to this is that mods can be volatile when crossing release editions, and one update can possibly make half of your mods unusable.
 
@@ -61,8 +62,8 @@ Once your Skyrim installation is clean and stable, you’re ready to install the
 
 If you’re interested in enhancing your Skyrim experience without diving headfirst into community modding, the Creation Club offers a simple, low-maintenance alternative. Included with the Anniversary Edition (or available for purchase separately in the Special Edition), these "Creations" are official, curated add-ons developed by Bethesda and selected community creators.
 
-![Creations Home Page](489830_10.jpg)
-*Figure 3: Bethesda Creations home page, image taken by Kira Discenza*
+> ![Creations Home Page](489830_10.jpg)
+> *Figure 3: Bethesda Creations home page, image taken by Kira Discenza*
 
 ### What are Creations?
 
@@ -87,9 +88,35 @@ Mods generally fall into a few categories:
 
 ### File Types
 
-Each mod typically includes files like .esp, .esm, or .bsa, which plug into Skyrim's game data. Some also rely on scripts or external plugins like SKSE (Skyrim Script Extender) to work properly. Knowing what each type of file does will help you manage your load order and avoid conflicts.
+When browsing mods, you’ll encounter various file formats:
+
+- .esp (Elder Scrolls Plugin): Adds or changes game content
+- .esm (Master file): Like an esp, but treated as a base layer
+- .bsa (Bethesda Soft Archive): Contains textures, models, or audio
+
+### A Word on Compatibility
+
+Not all mods are compatible with the latest version of Skyrim—especially if you’re running the Anniversary Edition. Always read the mod’s description, requirements, and user comments before installing. Look out for version compatibility (e.g., “works with SKSE 2.2.3” or “AE patch required”).
+
+Understanding these basics now will save you from hours of troubleshooting later. Up next, we’ll walk through the core tools you’ll need to safely install and manage your modded Skyrim.
 
 The beauty of Skyrim modding is in mixing and matching these mods to create a customized experience—but that also means things can get messy fast without the right tools. That’s where we’re headed next.
 
 # Tools for Modding
 
+Modding Skyrim manually is possible, but not recommended. Why? Because without the right tools, managing hundreds of mods (and their dependencies, load order, and updates) turns into a chaotic mess. Luckily, the modding community has built some fantastic utilities to make the process smooth, stable, and organized.
+
+### Where to Find Mods
+
+Most Skyrim mods are downloaded from Nexus Mods, though some are also hosted on platforms like GitHub or authors’ personal websites.
+
+Here are the essential tools every modder should install:
+
+- Mod Organizer 2 (MO2) – The gold standard for mod management. MO2 uses a virtual file system, meaning it doesn’t alter your game files directly. You can easily enable/disable mods, create separate modding profiles, and keep your setup tidy.
+- LOOT (Load Order Optimization Tool) – Ensures your mods are loaded in the correct order to avoid conflicts and crashes. LOOT automatically sorts your load order based on known mod interactions.
+- SKSE (Skyrim Script Extender) – Required by many advanced mods, SKSE expands Skyrim’s scripting capabilities far beyond the base game. Essential for mods like SkyUI and most gameplay overhauls.
+- SSEEdit – A powerful tool used to clean, inspect, and patch mods. It’s especially helpful for resolving conflicts between mods or making small custom tweaks.
+
+Don’t worry if some of these tools sound intimidating at first—we’ll walk through using them step-by-step in the following chapters. Once they’re set up, they’ll do most of the heavy lifting for you.
+
+### Where to find mods
