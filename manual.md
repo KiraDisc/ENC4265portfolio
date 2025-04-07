@@ -21,6 +21,7 @@
 - [Understanding Mods](#understanding-mods)
   - [Types of mods](#types-of-mods)
   - [File types](#file-types)
+- [Tools for Modding](#tools-for-modding)
 
 ## Introduction
 
@@ -89,3 +90,6 @@ Mods generally fall into a few categories:
 Each mod typically includes files like .esp, .esm, or .bsa, which plug into Skyrim's game data. Some also rely on scripts or external plugins like SKSE (Skyrim Script Extender) to work properly. Knowing what each type of file does will help you manage your load order and avoid conflicts.
 
 The beauty of Skyrim modding is in mixing and matching these mods to create a customized experience—but that also means things can get messy fast without the right tools. That’s where we’re headed next.
+
+# Tools for Modding
+
