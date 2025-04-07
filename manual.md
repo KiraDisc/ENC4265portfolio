@@ -30,7 +30,7 @@ This manual is designed for players who want to dive deep into modding without t
 
 This manual will walk you through setting up your game properly, using key tools, building a stable load order, and curating a personalized mod list for the best experience possible. Let’s turn vanilla Skyrim into something truly legendary.
 
-## Perparing Your Game
+## Preparing Your Game
 
 Before installing your first mod, it's crucial to prepare your Skyrim installation properly—think of it as laying the foundation before building a house. Modding can push the game far beyond its original limits, so starting clean and organized is key to avoiding crashes, bugs, and performance headaches down the line.
 
@@ -44,4 +44,7 @@ A fresh install with no lingering mods or saves is highly recommended. You’ll 
 
 Once your Skyrim installation is clean and stable, you’re ready to install the essential tools that will help manage your mods smoothly and safely.
 
-# Understanding Mods
+# An Easy Start - Using Creations
+
+![Creations Home Page](489830_10.jpg)
+### What are Creations?
