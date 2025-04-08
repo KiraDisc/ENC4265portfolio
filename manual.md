@@ -14,14 +14,15 @@
   - [Why mod Skyrim?](#why-mod-skyrim)
   - [What this manual covers - and what it doesn't](what-this-manual-covers---and-what-it-doesn't)
 - [Preparing Your Game](#preparing-your-game)
-  - [Choosing your version](#choosing-your-version)
-  - [Disabling automatic updates](#disabling-automatic-updates)
+  - [Choosing your Version](#choosing-your-version)
+  - [Disabling Automatic Updates](#disabling-automatic-updates)
 - [An Easy Start - Using Creations](#an-easy-start---using-creations)
   - [What are Creations?](#what-are-creations)
 - [Understanding Mods](#understanding-mods)
-  - [Types of mods](#types-of-mods)
-  - [File types](#file-types)
-  - [A word on compatibility](#a-word-on-compatibility)
+  - [Where to Find Mods](#where-to-find-mods)
+  - [Types of Mods](#types-of-mods)
+  - [File Types](#file-types)
+  - [A Word on Compatibility](#a-word-on-compatibility)
 - [Tools for Modding](#tools-for-modding)
 
 ## Introduction
@@ -52,7 +53,7 @@ To disable automatic updates, navigate to your steam library, right click on the
 
 > ![Game options menu](steam2.png)
 >
-> *Figure 2: Dialogue box where game specific settings can be changed*
+> *Figure 2: Dialogue box where game specific settings can be changed, captured by Kira Discenza*
 
 If this is too much of a hassle for you, feel free to skip this step. The benefit to this is that mods can be volatile when crossing release editions, and one update can possibly make half of your mods unusable.
 
@@ -63,7 +64,7 @@ Once your Skyrim installation is clean and stable, you’re ready to install the
 If you’re interested in enhancing your Skyrim experience without diving headfirst into community modding, the Creation Club offers a simple, low-maintenance alternative. Included with the Anniversary Edition (or available for purchase separately in the Special Edition), these "Creations" are official, curated add-ons developed by Bethesda and selected community creators.
 
 > ![Creations Home Page](489830_10.jpg)
-> *Figure 3: Bethesda Creations home page, image taken by Kira Discenza*
+> *Figure 3: Bethesda Creations home page, captured by Kira Discenza*
 
 ### What are Creations?
 
@@ -76,6 +77,14 @@ If you’re the type of player who just wants “a little something extra” wit
 # Understanding Mods
 
 Before diving into installation, it helps to understand what mods actually are and how they interact with Skyrim. At their core, mods are modifications—custom files made by the community that change, enhance, or add new content to the game. These can range from subtle quality-of-life tweaks to massive overhauls that transform gameplay entirely.
+
+### Where to Find Mods
+
+Most Skyrim mods are downloaded from [Nexus Mods](https://www.nexusmods.com/games/skyrim), though some are also hosted on platforms like GitHub or authors’ personal websites.
+
+> ![Nexus Home page](nexus.PNG)
+>
+> *Figure 4: Nexus mods home page, captured by Kira Discenza*
 
 ### Types of Mods
 
@@ -106,16 +115,64 @@ The beauty of Skyrim modding is in mixing and matching these mods to create a cu
 
 Modding Skyrim manually is possible, but not recommended. Why? Because without the right tools, managing hundreds of mods (and their dependencies, load order, and updates) turns into a chaotic mess. Luckily, the modding community has built some fantastic utilities to make the process smooth, stable, and organized.
 
-### Where to Find Mods
-
-Most Skyrim mods are downloaded from [Nexus Mods](https://www.nexusmods.com/games/skyrim), though some are also hosted on platforms like GitHub or authors’ personal websites.
-
 Here are the essential tools every modder should install:
 
-- Mod Organizer 2 (MO2) – The gold standard for mod management. MO2 uses a virtual file system, meaning it doesn’t alter your game files directly. You can easily enable/disable mods, create separate modding profiles, and keep your setup tidy.
-- LOOT (Load Order Optimization Tool) – Ensures your mods are loaded in the correct order to avoid conflicts and crashes. LOOT automatically sorts your load order based on known mod interactions.
-- SKSE (Skyrim Script Extender) – Required by many advanced mods, SKSE expands Skyrim’s scripting capabilities far beyond the base game. Essential for mods like SkyUI and most gameplay overhauls.
-- SSEEdit – A powerful tool used to clean, inspect, and patch mods. It’s especially helpful for resolving conflicts between mods or making small custom tweaks.
+- [Mod Organizer 2 (MO2)](https://www.nexusmods.com/skyrimspecialedition/mods/6194) – The gold standard for mod management. MO2 uses a virtual file system, meaning it doesn’t alter your game files directly. You can easily enable/disable mods, create separate modding profiles, and keep your setup tidy.
+- [LOOT (Load Order Optimization Tool)](https://loot.github.io/) – Ensures your mods are loaded in the correct order to avoid conflicts and crashes. LOOT automatically sorts your load order based on known mod interactions.
+- [SKSE (Skyrim Script Extender)](https://skse.silverlock.org/) – Required by many advanced mods, SKSE expands Skyrim’s scripting capabilities far beyond the base game. Essential for mods like SkyUI and most gameplay overhauls.
+- [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164) – A powerful tool used to clean, inspect, and patch mods. It’s especially helpful for resolving conflicts between mods or making small custom tweaks.
 
 Don’t worry if some of these tools sound intimidating at first—we’ll walk through using them step-by-step in the following chapters. Once they’re set up, they’ll do most of the heavy lifting for you.
 
+#Installing Mods Safely
+
+Once your tools are in place, it’s time to start adding mods—but doing it the right way is crucial. Improper installation is one of the leading causes of broken saves, missing files, or game crashes. This section walks you through safe mod installation using Mod Organizer 2 (MO2), the standard for modern Skyrim modding.
+
+### Step 1: Set Up a Modding Profile
+
+MO2 lets you create different profiles, which are isolated mod setups. This is perfect for experimenting with new mod combinations or keeping playthroughs separate.
+
+1. In MO2, click the gear icon and go to the Profiles tab.
+2. Enable “Use profile-specific Game INI files”.
+3. Create a new profile—name it something like “Base Setup” or “Vanilla + QoL”.
+
+Each profile will have its own mod list and game settings, which helps avoid conflicts between setups.
+
+### Step 2: Downloading Mods (The Right Way)
+
+1. Visit Nexus Mods and log in.
+2. Find a mod you want and click "Mod Manager Download" (MO2 will catch the file).
+3. The mod will appear in MO2’s Downloads tab.
+4. Once finished, right-click it and select “Install”.
+
+After installation, the mod will appear in the left pane. Enable it by checking the box.
+
+Tip: Always read the mod’s description. Look for installation instructions, required files, or load order recommendations. Some mods also include FOMOD installers (interactive menus that let you pick options), so follow prompts carefully.
+
+### Step 3: Installing Dependencies
+
+Some mods require others to work. These are called dependencies, and usually include tools like SKSE, frameworks like RaceMenu, or animation skeletons like XPMSSE.
+
+MO2 will warn you if a required plugin is missing. Be sure to install dependencies before the mod that needs them, or you may get errors or crashes.
+
+### Step 4: Avoiding Unsafe Mods
+
+While most mods on Nexus are safe, a few red flags to watch for include:
+
+- Mods with no documentation or vague descriptions
+- Very old mods marked as outdated or incompatible
+- Mods that replace .exe files or modify game DLLs (unless verified and popular)
+- Script-heavy mods added mid-playthrough (these can break saves)
+
+Always check the posts or bugs tab on Nexus to see if others are reporting problems.
+
+### Step 5: Test in Small Batches
+
+Avoid installing dozens of mods at once. Instead:
+
+1. Install 3–5 mods.
+2. Launch the game through MO2.
+3. Start a new game or load a clean save and test functionality.
+4. Confirm that the game boots, and the mods work as expected.
+
+This makes it easier to identify the source of any issues. If something goes wrong, you’ll know which group of mods caused it.
