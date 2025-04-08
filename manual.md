@@ -25,6 +25,11 @@
   - [A Word on Compatibility](#a-word-on-compatibility)
 - [Tools for Modding](#tools-for-modding)
 - [Installing Mods Safely](#installing-mods-safely)
+  - [Set Up a Modding Profile](#step-1-set-up-a-modding-profile)
+  - [Downloading Mods (The Right Way)](#step-2-downloading-mods-the-right-way)
+  - [Installing Dependencies](#step-3-installing-dependencies)
+  - [Avoiding Unsafe Mods](#step-4-avoiding-unsafe-mods)
+  - [Test in Small Batches](#step-5-test-in-small-batches)
 
 ## Introduction
 
@@ -177,3 +182,49 @@ Avoid installing dozens of mods at once. Instead:
 4. Confirm that the game boots, and the mods work as expected.
 
 This makes it easier to identify the source of any issues. If something goes wrong, you’ll know which group of mods caused it.
+
+# Load Order and Conflict Management
+
+As you add more mods to your setup, keeping them properly ordered becomes essential. Even well-made mods can break your game if they load in the wrong sequence or conflict with each other. This section will teach you how to understand, manage, and resolve mod conflicts before they become serious issues.
+
+### What Is Load Order?
+
+Load order refers to the sequence in which Skyrim loads plugin files (.esp, .esm, and .esl) at startup. The order can determine:
+
+- Which mod “wins” when two or more change the same object
+- Whether a mod has access to the assets or data it needs
+- How stable your game is during runtime
+
+The wrong order can cause missing textures, invisible NPCs, broken quests, or crashes on launch.
+
+### Understanding Mod Priority vs. Plugin Order
+
+Mod Organizer 2 has two types of ordering:
+
+- Left Pane (Mod Priority): Controls file overwrites—e.g., textures, meshes, scripts.
+- Right Pane (Plugin Order): Controls plugin load order—e.g., quests, leveled lists, world edits.
+
+Both orders matter, but plugins (right pane) are especially critical for gameplay mods. MO2 shows conflicts with icons and tooltips to help you identify overwrites or missing masters.
+
+### Using LOOT to Sort Plugins
+
+LOOT (Load Order Optimization Tool) takes the guesswork out of sorting plugins.
+
+To use LOOT in MO2:
+
+1. Add LOOT to MO2’s executable list.
+2. Run LOOT from inside MO2.
+3. Click “Sort Plugins” and apply the order it suggests.
+4. Review any warnings about missing masters or outdated mods.
+
+LOOT relies on a huge community-maintained database and is trusted by most modders.
+
+### Managing Conflicts
+
+MO2 flags conflicts with colored icons:
+
+- Red lightning bolt – A file is being overwritten by another mod
+- Green lightning bolt – This mod is overwriting another
+- No icon – No conflict
+
+Conflicts aren’t always bad—you want your texture replacer to overwrite vanilla files. But if two gameplay mods both change the same perk tree, you’ll need to choose which one “wins,” or merge them with a patch.
