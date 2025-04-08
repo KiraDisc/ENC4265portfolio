@@ -30,6 +30,11 @@
   - [Installing Dependencies](#step-3-installing-dependencies)
   - [Avoiding Unsafe Mods](#step-4-avoiding-unsafe-mods)
   - [Test in Small Batches](#step-5-test-in-small-batches)
+- [Load Order and Conflict Management](#load-order-and-conflict-management)
+  - [What Is Load Order?](#what-is-load-order)
+  - [Understanding Mod Priority vs. Plugin Order](#understanding-mod-priority-vs-plugin-order)
+  - [Using LOOT to Sort Plugins](#using-loot-to-sort-plugins)
+  - [Managing Conflicts](#managing-conflicts)
 
 ## Introduction
 
