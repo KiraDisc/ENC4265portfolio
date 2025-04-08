@@ -24,6 +24,7 @@
   - [File Types](#file-types)
   - [A Word on Compatibility](#a-word-on-compatibility)
 - [Tools for Modding](#tools-for-modding)
+- [Installing Mods Safely](#installing-mods-safely)
 
 ## Introduction
 
@@ -117,14 +118,14 @@ Modding Skyrim manually is possible, but not recommended. Why? Because without t
 
 Here are the essential tools every modder should install:
 
-- [Mod Organizer 2 (MO2)](https://www.nexusmods.com/skyrimspecialedition/mods/6194) – The gold standard for mod management. MO2 uses a virtual file system, meaning it doesn’t alter your game files directly. You can easily enable/disable mods, create separate modding profiles, and keep your setup tidy.
-- [LOOT (Load Order Optimization Tool)](https://loot.github.io/) – Ensures your mods are loaded in the correct order to avoid conflicts and crashes. LOOT automatically sorts your load order based on known mod interactions.
-- [SKSE (Skyrim Script Extender)](https://skse.silverlock.org/) – Required by many advanced mods, SKSE expands Skyrim’s scripting capabilities far beyond the base game. Essential for mods like SkyUI and most gameplay overhauls.
-- [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164) – A powerful tool used to clean, inspect, and patch mods. It’s especially helpful for resolving conflicts between mods or making small custom tweaks.
+- [Mod Organizer 2 (MO2)](https://www.nexusmods.com/skyrimspecialedition/mods/6194) – The gold standard for mod management. MO2 uses a virtual file system, meaning it doesn’t alter your game files directly. You can easily enable/disable mods, create separate modding profiles, and keep your setup tidy. [Installation Guide](https://www.youtube.com/watch?v=07-JVWDn7LA).
+- [LOOT (Load Order Optimization Tool)](https://loot.github.io/) – Ensures your mods are loaded in the correct order to avoid conflicts and crashes. LOOT automatically sorts your load order based on known mod interactions. [Installation Guide](https://loot.readthedocs.io/en/stable/app/installation.html).
+- [SKSE (Skyrim Script Extender)](https://skse.silverlock.org/) – Required by many advanced mods, SKSE expands Skyrim’s scripting capabilities far beyond the base game. Essential for mods like SkyUI and most gameplay overhauls. [Installation Guide](https://www.youtube.com/watch?v=xTGnQIiNVqA).
+- [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164) – A powerful tool used to clean, inspect, and patch mods. It’s especially helpful for resolving conflicts between mods or making small custom tweaks. [Installation Guide](https://www.youtube.com/watch?v=HYRPx0hqaEE).
 
 Don’t worry if some of these tools sound intimidating at first—we’ll walk through using them step-by-step in the following chapters. Once they’re set up, they’ll do most of the heavy lifting for you.
 
-#Installing Mods Safely
+# Installing Mods Safely
 
 Once your tools are in place, it’s time to start adding mods—but doing it the right way is crucial. Improper installation is one of the leading causes of broken saves, missing files, or game crashes. This section walks you through safe mod installation using Mod Organizer 2 (MO2), the standard for modern Skyrim modding.
 
