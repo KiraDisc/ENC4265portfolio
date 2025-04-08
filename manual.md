@@ -465,3 +465,5 @@ Here are some reliable places to continue your modding journey:
 Always mod with patience. Modding is not just a means to an end—it’s a hobby in itself. If you run into problems, don’t panic. Take a break, ask for help, and remember that every experienced modder started out not knowing the difference between an ESP and an ESL.
 
 Thanks for reading—and happy modding!
+
+AI Statement: Chat GPT -4 was used for outlining and organizing. Microsoft Word Spellchecker was used for editing.
