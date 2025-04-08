@@ -287,3 +287,7 @@ When installing graphics mods, there are a few important things to keep in mind:
   - Static Mesh Improvement Mod (SMIM) – Improves the 3D models of common objects in Skyrim (e.g., furniture, barrels, and windows), giving them a more polished look.
   - Rudy ENB – One of the most popular ENBs, with highly customizable settings that drastically improve Skyrim’s lighting and color grading.
   - Realistic Water Two – Replaces Skyrim’s water textures with more realistic, high-definition versions, also enhancing the flow and physics of water.
+
+# Enhancing Gameplay
+
+While visual mods are often the first place players start, the heart of modding Skyrim lies in enhancing its gameplay. Whether you want to tweak combat mechanics, add new quests, overhaul the economy, or completely change how the game feels, gameplay mods are the ones that truly transform your experience. This section highlights some of the best mods for altering the way Skyrim plays.
