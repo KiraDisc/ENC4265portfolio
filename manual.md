@@ -44,6 +44,17 @@
   - [Quality of Life Mods](#quality-of-life-mods)
   - [Content Mods](#content-mods)
   - [Specialized Gameplay Mods](#specialized-gameplay-mods)
+- [Troubleshooting and Fixing Common Issues](#troubleshooting-and-fixing-common-issues)
+  - [General Troubleshooting Steps](#general-troubleshooting-steps)
+  - [Common Issues and Fixes](#common-issues-and-fixes)
+  - [Best Practices for Avoiding Problems](#best-practices-for-avoiding-problems)
+- [Modding Etiquette and Community Tips](#modding-etiquette-and-community-tips)
+  - [Respecting Mod Authors](#respecting-mod-authors)
+  - [Participating in the Community](#participating-in-the-community)
+- [Final Thoughts and Resources](#final-thoughts-and-resources)
+  - [What You’ve Learned](#what-youve-learned)
+  - [Recommended Resources](#recommended-resources)
+  - [A Final Tip](#a-final-tip)
 
 ## Introduction
 
@@ -327,6 +338,10 @@ Mods that expand Skyrim’s world with new quests, locations, and factions.
 - The Forgotten City: A narrative-driven quest mod with multiple endings.
 - Interesting NPCs: Adds over 250 fully voiced NPCs with new quests and stories.
 
+> ![The Forgotten City](thelostcity.webp)
+>
+> *Figure 5: Screenshot from one of Skyrim's most successful mods, The Forgotten City, acquired from the Elder Scrolls wiki*
+
 ### Specialized Gameplay Mods
 
 Mods that cater to specific playstyles or enhance certain aspects of the game.
@@ -350,7 +365,7 @@ Before diving into specifics, follow these steps whenever something goes wrong:
 - Disable Recently Added Mods: If the game was stable before a recent installation, try disabling the newest mods one by one to identify the culprit.
 - Start a New Game: Some mods aren’t safe to add mid-playthrough, especially those that modify scripts, quests, or world spaces. Test issues on a new save first.
 
-### Common Issues & Fixes
+### Common Issues and Fixes
 
 1. Game Won’t Launch or Crashes Instantly
 
@@ -377,9 +392,68 @@ Before diving into specifics, follow these steps whenever something goes wrong:
    - Cause: Worldspace mod conflict or corrupted cell.
    - Fix: Disable mods that affect the area. Use xEdit to check for overlapping changes to that location.
   
-Best Practices for Avoiding Problems
+### Best Practices for Avoiding Problems
 
 - Install Mods Slowly: Add a few mods at a time and test in-game before moving on.
 - Keep Backups: Regularly back up your saves and MO2 profile so you can roll back if something breaks.
 - Avoid Removing Mods Mid-Playthrough: Especially mods with scripts or quests—this can corrupt saves.
 - Read Mod Pages: Authors often include important installation instructions, compatibility notes, or known issues.
+
+# Modding Etiquette and Community Tips
+
+Modding Skyrim isn’t just about installing files—it’s also about being part of a thriving community. Whether you're downloading your first mod or have a fully customized load order, following proper etiquette helps you get the most out of the experience while respecting the creators who make it all possible.
+
+### Respecting Mod Authors
+
+Mod creators pour hundreds (sometimes thousands) of hours into their work. Most do it for free, so it’s important to show respect:
+
+- Always read the mod description before asking questions. Authors typically include installation instructions, compatibility notes, and FAQs.
+- Avoid redistributing or modifying someone’s mod without permission. This includes uploading it elsewhere, repackaging it, or using assets in your own projects.
+- Leave endorsements and kudos on sites like Nexus Mods if you enjoy a mod. It’s a simple way to show appreciation.
+- Report issues respectfully. Don’t demand fixes—politely describe the bug, include your load order or crash logs, and be patient.
+
+### Participating in the Community
+
+Skyrim modding has a massive, helpful community. Getting involved can enhance your experience and keep you up-to-date with the latest tools and mods.
+
+- Join forums and Discord servers for tools like Mod Organizer 2, xEdit, and specific mod authors. These are great places to get help or share advice.
+- Don’t be afraid to ask questions, but search first. Many common problems have already been solved.
+- Support mod authors via donations or Patreon if you’re able and feel like a mod has added real value to your game.
+
+Skyrim’s modding scene has thrived for over a decade because of the passion and respect shared among its users and creators. By following good etiquette and staying involved, you contribute to a healthy, vibrant community—and get a better experience in return.
+
+# Final Thoughts and Resources
+
+Modding Skyrim can feel overwhelming at first—but once you get the hang of it, it becomes one of the most rewarding parts of playing the game. With the right tools and a thoughtful approach, you can shape Skyrim into exactly the experience you want, whether that's a deeply immersive RPG, a visually stunning fantasy world, or a survival sandbox full of challenge.
+
+### What You’ve Learned
+
+Throughout this manual, we’ve covered:
+
+- The differences between Creation Club content and traditional mods
+- How to set up your game safely using Mod Organizer 2
+- Best practices for managing load order and mod conflicts
+- Popular mods across visuals, gameplay, and immersion
+- Tools for fixing common issues and maintaining stability
+- Community etiquette and how to give back
+
+You don’t have to install hundreds of mods to enjoy a better Skyrim. Even a few well-chosen additions can dramatically improve your experience. Start simple, build slowly, and have fun experimenting.
+
+### Recommended Resources
+
+Here are some reliable places to continue your modding journey:
+
+- [Nexus Mods forums](https://forums.nexusmods.com/) – The largest Skyrim mod repository.
+- Mod Organizer 2 GitHub – For official updates and documentation.
+- [LOOT (Load Order Optimization Tool)](https://loot.github.io/) – Load order optimization.
+- xEdit (SSEEdit) – For inspecting and cleaning plugins.
+- [STEP (Skyrim Total Enhancement Project)](https://www.nexusmods.com/skyrim/mods/11) – Structured guides for stable modding.
+- Wabbajack – Automated modlists for easy setup.
+- [r/SkyrimMods](https://www.reddit.com/r/skyrimmods/) – Active Reddit community.
+- YouTube channels like GamerPoets, Dirty Weasel Media, and Lexy's LOTD – Great for tutorials and guides.
+
+### A Final Tip
+
+Always mod with patience. Modding is not just a means to an end—it’s a hobby in itself. If you run into problems, don’t panic. Take a break, ask for help, and remember that every experienced modder started out not knowing the difference between an ESP and an ESL.
+
+Thanks for reading—and happy modding!
