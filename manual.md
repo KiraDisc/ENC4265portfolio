@@ -420,6 +420,10 @@ Skyrim modding has a massive, helpful community. Getting involved can enhance yo
 - Don’t be afraid to ask questions, but search first. Many common problems have already been solved.
 - Support mod authors via donations or Patreon if you’re able and feel like a mod has added real value to your game.
 
+> ![Skyrim steam workshop](workshop.PNG)
+>
+> *Figure 6: The home page of the Skyrim Steam workshop page, acquired from the Steam workshop*
+
 Skyrim’s modding scene has thrived for over a decade because of the passion and respect shared among its users and creators. By following good etiquette and staying involved, you contribute to a healthy, vibrant community—and get a better experience in return.
 
 # Final Thoughts and Resources
