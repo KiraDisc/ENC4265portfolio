@@ -36,11 +36,15 @@
   - [Using LOOT to Sort Plugins](#using-loot-to-sort-plugins)
   - [Managing Conflicts](#managing-conflicts)
 - [Graphics and Visual Overhauls](#graphics-and-visual-overhauls)
-  - [What’s Possible with Visual Mods?](#what's-possible-with-visual-mods)
+  - [What’s Possible with Visual Mods?](#whats-possible-with-visual-mods)
   - [Installing and Managing Graphics Mods](#installing-and-managing-graphics-mods)
   - [Popular Mods for Visual Overhauls](#popular-mods-for-visual-overhauls)
 - [Enhancing Gameplay](#enhancing-gameplay)
-- 
+  - [Core Gameplay Overhauls](#core-gameplay-overhauls)
+  - [Quality of Life Mods](#quality-of-life-mods)
+  - [Content Mods](#content-mods)
+  - [Specialized Gameplay Mods](#specialized-gameplay-mods)
+
 ## Introduction
 
 ### Why mod Skyrim?
@@ -281,6 +285,10 @@ When installing graphics mods, there are a few important things to keep in mind:
 
         Dynamic Resolution Scaling mods like Upscale Texture Pack can help adjust visual quality based on your FPS.
 
+> ![Skyrim with graphics mods](graphicsskyrim.jpg)
+>
+> *Figure 4: In-game Skyrim landscape with graphics mods on, acquired from the Steam workshop*
+
 ### Popular Mods for Visual Overhauls
 
   - Skyrim HD – 2K Textures – Replaces over 90% of Skyrim’s textures with 2K quality versions. A must-have for anyone wanting better visuals without a full overhaul.
@@ -292,3 +300,86 @@ When installing graphics mods, there are a few important things to keep in mind:
 # Enhancing Gameplay
 
 While visual mods are often the first place players start, the heart of modding Skyrim lies in enhancing its gameplay. Whether you want to tweak combat mechanics, add new quests, overhaul the economy, or completely change how the game feels, gameplay mods are the ones that truly transform your experience. This section highlights some of the best mods for altering the way Skyrim plays.
+
+### Core Gameplay Overhauls
+
+Mods that significantly change Skyrim's mechanics and difficulty.
+
+- Requiem – The Roleplaying Overhaul: A complete rebalance of the game, making it tougher and more immersive.
+- Ordinator – Perks of Skyrim: Overhauls the perk system with over 400 new perks.
+- Ultimate Combat: Revamps combat with new animations, AI improvements, and more dynamic fights.
+- Enderal: A full conversion mod that adds an entirely new world and storyline.
+
+### Quality of Life Mods
+
+Mods that improve usability and ease of play.
+
+- SkyUI: A streamlined interface that improves inventory and UI management.
+- Immersive Citizens – AI Overhaul: Enhances NPC behavior to make them more dynamic and realistic.
+- Unofficial Skyrim Special Edition Patch: Fixes hundreds of bugs and issues left in the vanilla game.
+- Relationship Dialogue Overhaul (RDO): Expands NPC interactions and follower dialogue.
+
+### Content Mods
+
+Mods that expand Skyrim’s world with new quests, locations, and factions.
+
+- Falskaar: Adds a huge new land to explore with its own story and quests.
+- The Forgotten City: A narrative-driven quest mod with multiple endings.
+- Interesting NPCs: Adds over 250 fully voiced NPCs with new quests and stories.
+
+### Specialized Gameplay Mods
+
+Mods that cater to specific playstyles or enhance certain aspects of the game.
+
+- Survival Mode: Mods like Frostfall and iNeed add survival mechanics like hunger and cold.
+- Thieves Guild and Dark Brotherhood Expansions: Mods like Thieves Guild Reborn expand these factions with new content.
+- Combat Mods: TK Dodge and Vigor – Combat and Injuries enhance combat with new moves and injury mechanics.
+
+To avoid conflicts, limit the number of heavy gameplay overhauls, and always check mod compatibility before installing multiple mods that modify core systems like combat or AI.
+
+# Troubleshooting and Fixing Common Issues
+
+Even with careful planning, modding Skyrim can occasionally lead to crashes, bugs, or strange behavior. This section will help you identify and fix common problems so you can get back to enjoying the game with minimal frustration.
+
+### General Troubleshooting Steps
+
+Before diving into specifics, follow these steps whenever something goes wrong:
+
+- Check Mod Organizer 2 for Warnings: MO2 highlights missing masters, conflicts, and load order problems. Warnings in the right pane or missing file errors often point directly to the issue.
+- Sort Load Order with LOOT: Use the LOOT tool to automatically sort your plugins (.esp/.esm/.esl) and resolve many compatibility problems.
+- Disable Recently Added Mods: If the game was stable before a recent installation, try disabling the newest mods one by one to identify the culprit.
+- Start a New Game: Some mods aren’t safe to add mid-playthrough, especially those that modify scripts, quests, or world spaces. Test issues on a new save first.
+
+### Common Issues & Fixes
+
+1. Game Won’t Launch or Crashes Instantly
+
+   - Cause: Missing master files, incorrect SKSE installation, or broken plugin.
+   - Fix: Check MO2’s “Data” tab for missing files. Ensure SKSE is installed correctly and that you're launching the game from MO2 or the SKSE executable.
+
+2. Infinite Loading Screen
+
+   - Cause: Heavy script load, mod conflicts, or broken save.
+   - Fix: Try loading a clean save. Disable script-heavy mods temporarily. Use Resaver (Fallrim Tools) to clean broken scripts from saves.
+
+3. Missing Textures or Purple Objects
+
+   - Cause: Missing texture files or incorrect file paths.
+   - Fix: Reinstall the mod. Ensure the texture files are present in the correct folder (textures/ under the mod’s directory in MO2).
+
+4. “Black Face Bug” on NPCs
+
+   - Cause: Mismatch between face textures and meshes from NPC overhaul mods.
+   - Fix: Use the Face Discoloration Fix plugin in xEdit or regenerate face data using Creation Kit if needed.
+
+5. Crashing When Entering a Specific Area
+
+   - Cause: Worldspace mod conflict or corrupted cell.
+   - Fix: Disable mods that affect the area. Use xEdit to check for overlapping changes to that location.
+  
+Best Practices for Avoiding Problems
+
+- Install Mods Slowly: Add a few mods at a time and test in-game before moving on.
+- Keep Backups: Regularly back up your saves and MO2 profile so you can roll back if something breaks.
+- Avoid Removing Mods Mid-Playthrough: Especially mods with scripts or quests—this can corrupt saves.
+- Read Mod Pages: Authors often include important installation instructions, compatibility notes, or known issues.
