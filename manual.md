@@ -35,6 +35,10 @@
   - [Understanding Mod Priority vs. Plugin Order](#understanding-mod-priority-vs-plugin-order)
   - [Using LOOT to Sort Plugins](#using-loot-to-sort-plugins)
   - [Managing Conflicts](#managing-conflicts)
+- [Graphics and Visual Overhauls](#graphics-and-visual-overhauls)
+  - [What’s Possible with Visual Mods?](#what's-possible-with-visual-mods)
+  - [Installing and Managing Graphics Mods](#installing-and-managing-graphics-mods)
+  - [Popular Mods for Visual Overhauls](#popular-mods-for-visual-overhauls)
 
 ## Introduction
 
@@ -233,3 +237,53 @@ MO2 flags conflicts with colored icons:
 - No icon – No conflict
 
 Conflicts aren’t always bad—you want your texture replacer to overwrite vanilla files. But if two gameplay mods both change the same perk tree, you’ll need to choose which one “wins,” or merge them with a patch.
+
+# Graphics & Visual Overhauls
+
+One of the first things many Skyrim modders look to improve is the game’s graphics. From high-definition textures to full lighting overhauls, visual mods can make Skyrim look stunningly modern and immersive. However, adding too many graphics mods at once can also impact performance, so it’s essential to approach this section with balance and purpose.
+
+### What’s Possible with Visual Mods?
+
+Skyrim’s graphics can be transformed in many ways, and there’s a mod for almost every visual aspect of the game. These mods typically fall into the following categories:
+
+- Texture Overhauls – Replaces vanilla textures for objects, landscapes, and characters with higher-quality versions. Common mods include Skyrim HD – 2K Textures and Noble Skyrim Mod HD-2K.
+- Lighting and Weather – Mods like Relighting Skyrim and Vivid Weathers overhaul the game’s lighting to make it more realistic, adjusting everything from ambient light to shadow quality.
+- ENB Presets – ENB (Enhanced Natural Beauty) mods allow you to install custom settings that change how Skyrim’s lighting, colors, and post-processing effects work. Popular ENBs like Rudy ENB can give the game a cinematic look, complete with better contrast, bloom effects, and realistic ambient lighting.
+- Shadows and LOD – Mods like DynDOLOD and Static Mesh Improvement Mod (SMIM) improve shadows, distant object rendering, and the overall detail of Skyrim’s world.
+- Character and Creature Models – Mods such as High Poly Head and Immersive Creatures replace Skyrim’s characters and enemies with higher-quality models.
+
+### Installing and Managing Graphics Mods
+
+When installing graphics mods, there are a few important things to keep in mind:
+
+1. Texture Mod Installation:
+
+   - Texture mods can be large, so make sure your system has enough resources (VRAM) to handle them.
+   - Use LOOT to sort any texture mods that come with plugins (.esp files).
+   - For texture-heavy mods like 4K packs, be mindful of your system's performance—too many high-res textures can lower your FPS.
+
+2. ENB Installation:
+
+   - ENBs require Skyrim Script Extender (SKSE) to run, so ensure you’ve installed SKSE64 properly first.
+   - To install an ENB, download the preset and follow its installation instructions. Most ENBs have their own custom settings file that will tweak shaders, lighting, and effects.
+   - After installation, launch the game using MO2 or a shortcut to your preferred ENB.
+
+3. Load Order:
+
+   - Load order matters for visual mods, especially if they modify textures or meshes. Texture replacers should generally be loaded last to overwrite lower-quality textures.
+
+4. Performance Considerations:
+
+   - Graphic-heavy mods (like ENBs or high-resolution textures) can stress your system, especially if you’re running a lot of them at once.
+
+        Keep an eye on FPS and VRAM usage. Consider using Skyrim Performance Monitor to track performance in real-time.
+
+        Dynamic Resolution Scaling mods like Upscale Texture Pack can help adjust visual quality based on your FPS.
+
+### Popular Mods for Visual Overhauls
+
+  - Skyrim HD – 2K Textures – Replaces over 90% of Skyrim’s textures with 2K quality versions. A must-have for anyone wanting better visuals without a full overhaul.
+  - Vivid Weathers – Overhauls Skyrim’s weather system and lighting, offering more variety and realism in the atmosphere.
+  - Static Mesh Improvement Mod (SMIM) – Improves the 3D models of common objects in Skyrim (e.g., furniture, barrels, and windows), giving them a more polished look.
+  - Rudy ENB – One of the most popular ENBs, with highly customizable settings that drastically improve Skyrim’s lighting and color grading.
+  - Realistic Water Two – Replaces Skyrim’s water textures with more realistic, high-definition versions, also enhancing the flow and physics of water.
