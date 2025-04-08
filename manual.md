@@ -4,9 +4,9 @@
 
 # Modding Skyrim: A (Mostly) Complete Guide
 
-> ![Elder Scrolls v: Skyrim](skyirm.jpg)
+> ![Elder Scrolls v: Skyrim](skyrim.avif)
 >
-> *Figure 1: Elder Scrolls V: Skyrim title screen*
+> *Figure 1: Elder Scrolls V: Skyrim title screen, acquired from Nintendo Official Site*
 
 ## Table of Contents
 
