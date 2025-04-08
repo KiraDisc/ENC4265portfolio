@@ -244,6 +244,10 @@ To use LOOT in MO2:
 
 LOOT relies on a huge community-maintained database and is trusted by most modders.
 
+> ![Skyrim steam workshop](loot.png)
+>
+> *Figure 4: An open page of the LOOT tool, showing how the order of mods is organized, acquired from an [online skyrim forum](https://linustechtips.com/topic/377757-skyrim-load-order-optimization-tool-loot-updated-to-v070-now-with-added-blue/)*
+
 ### Managing Conflicts
 
 MO2 flags conflicts with colored icons:
@@ -298,7 +302,7 @@ When installing graphics mods, there are a few important things to keep in mind:
 
 > ![Skyrim with graphics mods](graphicsskyrim.jpg)
 >
-> *Figure 4: In-game Skyrim landscape with graphics mods on, acquired from the Steam workshop*
+> *Figure 5: In-game Skyrim landscape with graphics mods on, acquired from the Steam workshop*
 
 ### Popular Mods for Visual Overhauls
 
@@ -340,7 +344,7 @@ Mods that expand Skyrim’s world with new quests, locations, and factions.
 
 > ![The Forgotten City](thelostcity.webp)
 >
-> *Figure 5: Screenshot from one of Skyrim's most successful mods, The Forgotten City, acquired from the Elder Scrolls wiki*
+> *Figure 6: Screenshot from one of Skyrim's most successful mods, The Forgotten City, acquired from the Elder Scrolls wiki*
 
 ### Specialized Gameplay Mods
 
@@ -422,7 +426,7 @@ Skyrim modding has a massive, helpful community. Getting involved can enhance yo
 
 > ![Skyrim steam workshop](workshop.PNG)
 >
-> *Figure 6: The home page of the Skyrim Steam workshop page, acquired from the Steam workshop*
+> *Figure 7: The home page of the Skyrim Steam workshop page, acquired from the Steam workshop*
 
 Skyrim’s modding scene has thrived for over a decade because of the passion and respect shared among its users and creators. By following good etiquette and staying involved, you contribute to a healthy, vibrant community—and get a better experience in return.
 
