@@ -39,7 +39,8 @@
   - [What’s Possible with Visual Mods?](#what's-possible-with-visual-mods)
   - [Installing and Managing Graphics Mods](#installing-and-managing-graphics-mods)
   - [Popular Mods for Visual Overhauls](#popular-mods-for-visual-overhauls)
-
+- [Enhancing Gameplay](#enhancing-gameplay)
+- 
 ## Introduction
 
 ### Why mod Skyrim?
