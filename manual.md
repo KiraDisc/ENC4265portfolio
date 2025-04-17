@@ -462,4 +462,4 @@ Here are some reliable places to continue your modding journey:
 
 Thanks for reading—and happy modding!
 
-AI Statement: Chat GPT -4 was used for outlining and organizing. Microsoft Word Spellchecker was used for editing.
+> AI Statement: Chat GPT -4 was used for outlining and organizing. Microsoft Word Spellchecker was used for editing.
