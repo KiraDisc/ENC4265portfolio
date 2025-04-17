@@ -15,6 +15,7 @@
   - [What this manual covers - and what it doesn't](what-this-manual-covers---and-what-it-doesn't)
 - [Preparing Your Game](#preparing-your-game)
   - [Choosing your Version](#choosing-your-version)
+  - [A Fresh Start](#a-fresh-start)
   - [Disabling Automatic Updates](#disabling-automatic-updates)
 - [An Easy Start - Using Creations](#an-easy-start---using-creations)
   - [What are Creations?](#what-are-creations)
@@ -52,11 +53,9 @@
   - [Respecting Mod Authors](#respecting-mod-authors)
   - [Participating in the Community](#participating-in-the-community)
 - [Final Thoughts and Resources](#final-thoughts-and-resources)
-  - [What You’ve Learned](#what-youve-learned)
   - [Recommended Resources](#recommended-resources)
-  - [A Final Tip](#a-final-tip)
 
-## Introduction
+# Introduction
 
 ### Why mod Skyrim?
 
@@ -68,17 +67,27 @@ This manual is designed for players who want to dive deep into modding without t
 
 This manual will walk you through setting up your game properly, using key tools, building a stable load order, and curating a personalized mod list for the best experience possible. Let’s turn vanilla Skyrim into something truly legendary.
 
-## Preparing Your Game
-
-Before installing your first mod, it's crucial to prepare your Skyrim installation properly—think of it as laying the foundation before building a house. Modding can push the game far beyond its original limits, so starting clean and organized is key to avoiding crashes, bugs, and performance headaches down the line.
+# Preparing Your Game
 
 ### Choosing your version
 
 First, decide which version of Skyrim you’ll be modding: The Special Edition (SE) or the Anniversary Edition (AE). SE is the most stable and widely supported by modern mods, while AE includes additional content that may cause compatibility issues unless you're careful with your mod setup. Most mods are dual supported by both version, but some are only supported by one, so picking one version is best.
 
+### A Fresh Start
+
+Before installing your first mod, it's crucial to prepare your Skyrim installation properly—think of it as laying the foundation before building a house. Modding can push the game far beyond its original limits, so starting clean and organized is key to avoiding crashes, bugs, and performance headaches down the line. To do this on Steam, see the following steps:
+
+1. Log into Steam
+2. Search up your version of choice (editions are sold separately)
+3. Add to cart and check out
+4. Go to your game library and find Skyrim
+5. Select "Install" and follow install instructions
+
+If you had the game previously installed, you can uninstall and reinstall for a clean slate.
+
 ### Disabling automatic updates
 
-A fresh install with no lingering mods or saves is highly recommended. You’ll also want to disable automatic updates through Steam to avoid breaking your mod setup unexpectedly. It’s better to set everything up right the first time than to troubleshoot a messy modded game later. 
+Now that you have a fresh install of the game, you’ll also want to disable automatic updates through Steam to avoid breaking your mod setup unexpectedly. It’s better to set everything up right the first time than to troubleshoot a messy modded game later. 
 
 To disable automatic updates, navigate to your steam library, right click on the game title and click properties. In the open dialogue box click on the updates tab and select "Wait until I launch the game" from the dropdown menu. Unfortunately Steam does not offer a definitive way to turn off updates. To work around this you will need to use the update option we previously selected, and before launching the title, change your steam status to offline so that the launching isn't detected.
 
@@ -100,6 +109,8 @@ If you’re interested in enhancing your Skyrim experience without diving headfi
 ### What are Creations?
 
 Creations include new quests, armor sets, weapons, spells, dungeons, and even game mechanics like fishing and survival mode. Unlike traditional mods, they integrate seamlessly with the game and require no special tools or mod managers—just enable or disable them in the game’s main menu. To access them, there is a button in the main menu of the game titled "Creations", located under the "New game" and "Load game" buttons that will take you to the Creations home page, pictured above.
+
+To find mods that might interest you, you can simply browse the home page where mods are featured and organized by mod type. If one catches your eye, you can click on it and then click "Install" to add it to your mods list. The game will then load it for you when you go back to the menu and you will be able to play with it!
 
 While Creation Club content is more limited in scope than community mods, it’s a great way to freshen up your playthrough with minimal setup. It’s also fully supported by Bethesda, meaning it's unlikely to break your game or conflict with updates.
 
@@ -257,6 +268,8 @@ MO2 flags conflicts with colored icons:
 - No icon – No conflict
 
 Conflicts aren’t always bad—you want your texture replacer to overwrite vanilla files. But if two gameplay mods both change the same perk tree, you’ll need to choose which one “wins,” or merge them with a patch.
+
+For further help, there a numerous [resources](https://www.nexusmods.com/skyrimspecialedition/articles/4381) on how to troubleshoot your mods.
 
 # Graphics & Visual Overhauls
 
@@ -434,35 +447,18 @@ Skyrim’s modding scene has thrived for over a decade because of the passion an
 
 Modding Skyrim can feel overwhelming at first—but once you get the hang of it, it becomes one of the most rewarding parts of playing the game. With the right tools and a thoughtful approach, you can shape Skyrim into exactly the experience you want, whether that's a deeply immersive RPG, a visually stunning fantasy world, or a survival sandbox full of challenge.
 
-### What You’ve Learned
-
-Throughout this manual, we’ve covered:
-
-- The differences between Creation Club content and traditional mods
-- How to set up your game safely using Mod Organizer 2
-- Best practices for managing load order and mod conflicts
-- Popular mods across visuals, gameplay, and immersion
-- Tools for fixing common issues and maintaining stability
-- Community etiquette and how to give back
-
-You don’t have to install hundreds of mods to enjoy a better Skyrim. Even a few well-chosen additions can dramatically improve your experience. Start simple, build slowly, and have fun experimenting.
-
 ### Recommended Resources
 
 Here are some reliable places to continue your modding journey:
 
 - [Nexus Mods forums](https://forums.nexusmods.com/) – The largest Skyrim mod repository.
-- Mod Organizer 2 GitHub – For official updates and documentation.
+- [Mod Organizer 2 GitHub](https://www.nexusmods.com/skyrimspecialedition/mods/6194) – For official updates and documentation.
 - [LOOT (Load Order Optimization Tool)](https://loot.github.io/) – Load order optimization.
-- xEdit (SSEEdit) – For inspecting and cleaning plugins.
+- [xEdit (SSEEdit)](https://www.nexusmods.com/skyrimspecialedition/mods/164) – For inspecting and cleaning plugins.
 - [STEP (Skyrim Total Enhancement Project)](https://www.nexusmods.com/skyrim/mods/11) – Structured guides for stable modding.
-- Wabbajack – Automated modlists for easy setup.
+- [Wabbajack](https://www.wabbajack.org/) – Automated modlists for easy setup.
 - [r/SkyrimMods](https://www.reddit.com/r/skyrimmods/) – Active Reddit community.
 - YouTube channels like GamerPoets, Dirty Weasel Media, and Lexy's LOTD – Great for tutorials and guides.
-
-### A Final Tip
-
-Always mod with patience. Modding is not just a means to an end—it’s a hobby in itself. If you run into problems, don’t panic. Take a break, ask for help, and remember that every experienced modder started out not knowing the difference between an ESP and an ESL.
 
 Thanks for reading—and happy modding!
 
